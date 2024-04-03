@@ -1,3 +1,4 @@
 Hi everyone welcome to INFO 442.
 Merge conflicts are very annoying and scometimes scary!
 Hopefully rebasing can help!
+Adding line 4!
